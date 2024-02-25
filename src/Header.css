@@ -1,0 +1,20 @@
+/* Header.css */
+
+.header {
+  background-color: #282c34;
+  color: #61dafb;
+  padding: 20px;
+  border-bottom: 2px solid #61dafb;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.subtitle {
+  font-size: 18px;
+  margin-top: 10px;
+}
